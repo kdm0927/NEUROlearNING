@@ -1,5 +1,5 @@
 ## 🧠 NEUROlearNING
-치매 예방 지원 스토리 게임
+치매 예방 지원 스토리 게임 <br>
 Dementia Prevention Support Story Game
 
 ### ✅ contatct
@@ -19,7 +19,7 @@ Dementia Prevention Support Story Game
 
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 👉 Notion 프로젝트 페이지 바로가기 [notionlink](https://www.notion.so/NEUROlearNING-1a8f0c1d63f28071a1d5c167d4dddf59?pvs=4)
+![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 👉 Notion 프로젝트 페이지 [notionlink](https://www.notion.so/NEUROlearNING-1a8f0c1d63f28071a1d5c167d4dddf59?pvs=4)
 
 
 ## 깃헙 사용하기
