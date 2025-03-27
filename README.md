@@ -1,4 +1,4 @@
-## 🧠 NEUROlearNING
+# 🧠 NEUROlearNING
 치매 예방 지원 스토리 게임 <br>
 Dementia Prevention Support Story Game
 <br>
