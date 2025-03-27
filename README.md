@@ -1,19 +1,11 @@
-## NEUROlearNING
+## 🧠 NEUROlearNING
 Dementia Prevention Support Story Game
 
 ### ✅ contatct
-![mailcontact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 팀장 배수연(팀장) bsy5640@gmail.com
+![mailcontact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 팀장 팀장 배수연 | bsy5640@gmail.com
 
 ### ✅ team
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href=""><img src="https://github.com/suyeonb" width="100px;" alt=""/><br /><sub><b>팀장, BE, DB : 배수연</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/kdm0927" width="100px;" alt=""/><br /><sub><b>FE, BE : 김다민</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/ieeyesoi" width="100px;" alt=""/><br /><sub><b>Design, PM : 이예솔</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/jaeyeo0ng" width="100px;" alt=""/><br /><sub><b>Design, FE : 조재영</b></sub></a><br /></td>
-  </tbody>
-</table>
+<table> <tr> <td align="center"> <a href="https://github.com/suyeonb"><img src="https://github.com/suyeonb.png" width="100px;" alt="배수연 프로필"/><br /><sub><b>배수연</b><br />팀장 / BE / DB</sub></a> </td> <td align="center"> <a href="https://github.com/kdm0927"><img src="https://github.com/kdm0927.png" width="100px;" alt="김다민 프로필"/><br /><sub><b>김다민</b><br />FE / BE</sub></a> </td> <td align="center"> <a href="https://github.com/ieeyesoi"><img src="https://github.com/ieeyesoi.png" width="100px;" alt="이예솔 프로필"/><br /><sub><b>이예솔</b><br />디자인 / PM</sub></a> </td> <td align="center"> <a href="https://github.com/jaeyeo0ng"><img src="https://github.com/jaeyeo0ng.png" width="100px;" alt="조재영 프로필"/><br /><sub><b>조재영</b><br />디자인 / FE</sub></a> </td> </tr> </table>
 
 ### ✅ purpose
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![googleplay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
