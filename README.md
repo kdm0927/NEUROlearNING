@@ -28,6 +28,7 @@ Dementia Prevention Support Story Game
 ![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) [notionlink](https://www.notion.so/NEUROlearNING-1a8f0c1d63f28071a1d5c167d4dddf59?pvs=4)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 깃헙 사용하기
 #### ✅1. 깃허브 플로우
 브랜치 관리 방법:
