@@ -2,16 +2,16 @@
 Dementia Prevention Support Story Game
 
 ### contatct
-![mailcontact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![mailcontact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 팀장 배수연(팀장) bsy5640@gmail.com
 
 ### team
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>팀장, BE, DB : 배수연</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE, BE : 김다민</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Design, PM : 이예솔</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Design, FE : 조재영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/" width="100px;" alt=""/><br /><sub><b>팀장, BE, DB : 배수연</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/" width="100px;" alt=""/><br /><sub><b>FE, BE : 김다민</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/" width="100px;" alt=""/><br /><sub><b>Design, PM : 이예솔</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/" width="100px;" alt=""/><br /><sub><b>Design, FE : 조재영</b></sub></a><br /></td>
   </tbody>
 </table>
 
@@ -25,7 +25,8 @@ Dementia Prevention Support Story Game
 
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) [notionlink](https://www.notion.so/NEUROlearNING-1a8f0c1d63f28071a1d5c167d4dddf59?pvs=4)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 깃헙 사용하기
 #### ✅1. 깃허브 플로우
