@@ -3,7 +3,7 @@
 Dementia Prevention Support Story Game
 
 ### ✅ contatct
-![mailcontact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+![mailcontact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <br>
 팀장 배수연 | bsy5640@gmail.com
 
 ### ✅ team
