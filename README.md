@@ -8,10 +8,10 @@ Dementia Prevention Support Story Game
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="https://github.com/" width="100px;" alt=""/><br /><sub><b>팀장, BE, DB : 배수연</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/" width="100px;" alt=""/><br /><sub><b>FE, BE : 김다민</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/" width="100px;" alt=""/><br /><sub><b>Design, PM : 이예솔</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/" width="100px;" alt=""/><br /><sub><b>Design, FE : 조재영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/suyeonb" width="100px;" alt=""/><br /><sub><b>팀장, BE, DB : 배수연</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/kdm0927" width="100px;" alt=""/><br /><sub><b>FE, BE : 김다민</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/ieeyesoi" width="100px;" alt=""/><br /><sub><b>Design, PM : 이예솔</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/jaeyeo0ng" width="100px;" alt=""/><br /><sub><b>Design, FE : 조재영</b></sub></a><br /></td>
   </tbody>
 </table>
 
