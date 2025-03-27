@@ -1,15 +1,15 @@
 ## 🧠 NEUROlearNING
 치매 예방 지원 스토리 게임 <br>
 Dementia Prevention Support Story Game
-
+<br>
 ### ✅ Contact
 ![mailcontact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <br>
 팀장 배수연 | bsy5640@gmail.com
-
+<br>
 
 ### ✅ Team
 <table> <tr> <td align="center"> <a href="https://github.com/suyeonb"><img src="https://github.com/suyeonb.png" width="100px;" alt="배수연 프로필"/><br /><sub><b>배수연</b><br />팀장 / BE / DB</sub></a> </td> <td align="center"> <a href="https://github.com/kdm0927"><img src="https://github.com/kdm0927.png" width="100px;" alt="김다민 프로필"/><br /><sub><b>김다민</b><br />FE / BE</sub></a> </td> <td align="center"> <a href="https://github.com/ieeyesoi"><img src="https://github.com/ieeyesoi.png" width="100px;" alt="이예솔 프로필"/><br /><sub><b>이예솔</b><br />디자인 / PM</sub></a> </td> <td align="center"> <a href="https://github.com/jaeyeo0ng"><img src="https://github.com/jaeyeo0ng.png" width="100px;" alt="조재영 프로필"/><br /><sub><b>조재영</b><br />디자인 / FE</sub></a> </td> </tr> </table>
-
+<br>
 
 ### ✅ Purpose
 1. 치매 예방을 위한 인지 훈련 게임 <br>
@@ -17,7 +17,7 @@ Dementia Prevention Support Story Game
 3. Android 앱으로 제공 <br>
 
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![googleplay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-
+<br>
 
 ### ✅ Tools
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -27,7 +27,7 @@ Dementia Prevention Support Story Game
 ![androidstudio](![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 👉 Notion 프로젝트 페이지 [notionlink](https://www.notion.so/NEUROlearNING-1a8f0c1d63f28071a1d5c167d4dddf59?pvs=4)
-
+<br>
 
 ## 깃헙 사용하기
 #### ✅1. 깃허브 플로우
