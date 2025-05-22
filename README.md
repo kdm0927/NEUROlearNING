@@ -28,68 +28,107 @@ Dementia Prevention Support Story Game
 ![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 👉 Notion 프로젝트 페이지 [notionlink](https://www.notion.so/NEUROlearNING-1a8f0c1d63f28071a1d5c167d4dddf59?pvs=4)
 <br>
 
-## 깃헙 사용 규칙
-#### ✅1. 깃허브 플로우
-브랜치 관리 방법:
+# 📘 GitHub 협업 전략
 
-각 팀원은 feature/* 브랜치에서 작업 → develop으로 병합
+본 문서는 우리 팀의 협업 방식, 브랜치 전략, 이슈 관리 방식, 커밋 메시지 규칙 등을 정리한 개발 리드미입니다.
 
-develop에서 충분히 테스트한 후 main으로 배포
+---
 
-#### ✅(B) 커밋 & PR (Pull Request) 규칙
-📌 커밋 메시지 컨벤션 (명확한 기록을 위해!)
+## 🔁 작업 흐름: 페이지 단위 병렬 작업
 
-feat: 스토리 진행 기능 추가  
+1. **다민 & 재영**
+    - 스토리 흐름 및 UI 초안 설계
+    - 페이지 단위 세부 명세서 제작
+    - feature 브랜치 생성
+2. **예솔**
+    - 초안 UI에 디자인 적용 (Figma 등 활용)
+    - 시니어 맞춤형 인터페이스 설계 및 사용성 테스트 진행
+3. **수연**
+    - 기능 구현 (DB, 로직, API, 게임 연동 등)
+    - 초안/완성된 UI를 기준으로 기능 연결
+4. **작업 순서 흐름**
+    - 다민 & 재영: 페이지 1 UI 초안 제작
+    - 예솔 & 수연: 페이지 1 디자인 및 기능 구현
+    - 동시에 다민 & 재영은 페이지 2 초안 제작 시작
+5. **페이지 완성 시** → `master` 브랜치 병합
+6. **다른 페이지와의 연결까지 완료** → `main` 브랜치 병합
 
-fix: UI 버튼 크기 수정  
+---
 
-refactor: 미니게임 로직 최적화  
+## 🌿 브랜치 전략
 
-docs: README 업데이트 
- 
-#### ✅ 예시 커밋 메시지:
-✔ feat: 스토리 시스템에서 선택지 기능 추가
+| 브랜치 | 설명 |
+| --- | --- |
+| `main` | 전체 연계 및 릴리즈 대상 병합 |
+| `master` | 기능 단위 완료된 페이지 저장소 (테스트 통과 기준) |
+| `feature/페이지명` | 각 기능/화면 단위 개발 공간 (예: `feature/story1`) |
 
-✔ fix: 미니게임 UI 깨지는 버그 수정
+**TIP:** 브랜치는 항상 `feature/페이지명` 형식으로 명명
 
-#### 📌 Pull Request (PR) 관리 규칙(고민중)
-PR 제목은 [작업 내용]을 명확하게 작성
+```bash
+# 예시
+feature/story1
+feature/login
+```
 
-팀원 중 최소 1명이 코드 리뷰 후 승인 (자동 병합 방지)
+---
 
-develop에 머지 후 팀원에게 공유
+## 🗂️ 이슈 관리 전략
 
-## 📌 개발 순서 (각 팀원이 해야 할 작업)
-### 🎯 1. 새로운 기능 개발할 때
-##### 최신 develop 브랜치 가져오기
-> git checkout develop
-> 
-> git pull origin develop
+### 📌 이슈 분해 기준
 
+- 역할별로 나누기 (PM / UI / 기능)
+- 한 작업에 하루 이내 완료 가능할 수준으로 쪼개기
+- 작업 완료 여부 관리하기
 
-##### 새로운 기능 브랜치 생성
-> git checkout -b feature/mini-game1
+### 📄 이슈 예시
 
+| 제목 | 담당자 | 설명 |
+| --- | --- | --- |
+| `[Story1] UI 초안 구조 설계` | 다민, 재영 | 버튼/레이아웃 정의 |
+| `[Story1] 디자인 적용` | 예솔 | Figma 기반 디자인 적용 |
+| `[Story1] 기능 구현 - 대사 출력` | 수연 | 텍스트 애니메이션, 전환 |
+| `[Story1] 기능 구현 - 미니게임 연동` | 수연 | 게임 Activity 연결 |
 
-##### 코드 작성 후 커밋
-> git add .
->
-> git commit -m "feat: 십자말 풀이 미니게임 기본 로직 추가"
+### ✅ 이슈 제목 형식
 
+```
+[페이지명] 작업유형 - 간단한 설명
+```
 
-##### 원격 깃허브에 업로드
-> git push origin feature/mini-game1
+---
 
-### 🎯 2. PR(Pull Request) 생성(고민중)
-GitHub에서 feature/mini-game1 → develop 으로 Pull Request(PR) 생성
+## 📝 커밋 메시지 규칙
 
-팀원이 코드 리뷰 후 승인 → 병합
+### 📌 기본 구조
 
-### 🎯 3. 최신 코드 동기화
-##### develop 브랜치 최신 상태 가져오기
-> git checkout develop
->
-> git pull origin develop
+```
+#[이슈번호] 작업유형: [페이지] 한 줄 설명
+```
 
-##### 새로운 작업 브랜치 생성 후 반복
-> git checkout -b feature/next-task
+### 📋 커밋 유형 예시
+
+| 유형 | 설명 | 예시 |
+| --- | --- | --- |
+| `feat` | 새로운 기능 추가 | `#12 feat: [Story1] 미니게임 연결 기능 구현` |
+| `fix` | 버그 수정 | `#14 fix: [Story2] 대사 흐름 순서 오류 수정` |
+| `docs` | 문서 수정 | `#3 docs: README 브랜치 전략 설명 추가` |
+| `refactor` | 리팩토링 | `#6 refactor: GameManager 구조 개선` |
+| `style` | 코드 스타일 변경 (로직 X) | `#15 style: 들여쓰기 및 변수명 통일` |
+| `chore` | 기타 변경사항 | `#2 chore: gradle 버전 업데이트` |
+
+### 📌 문서 또는 리드미 수정 시
+
+```
+#1 docs: README 커밋 메시지 전략 설명 추가
+```
+
+---
+
+## 📌 GitHub Projects 활용
+
+- `To Do` / `In Progress` / `Done` 칼럼으로 이슈 추적
+- PR과 이슈 자동 연결 (`Fixes #11` 등)
+- 페이지별 마일스톤 설정 가능 (선택사항)
+
+---
